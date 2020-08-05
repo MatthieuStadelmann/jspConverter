@@ -1,0 +1,19 @@
+{
+  "name": "jspconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jspConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthieu Stadelmann",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "jsdom": "^16.3.0"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
